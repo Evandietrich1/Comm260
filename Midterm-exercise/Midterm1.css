@@ -1,0 +1,33 @@
+
+
+header {
+  width: 100%;
+}
+h2 {font-color: gray;
+font-size: 1.5em;}
+
+blockquote {
+  font-size:1.3em;
+  font-color:blue;
+  background:rgb(239, 239, 239);
+  float: right;
+}
+
+  #main {
+    width: 50%;
+
+    #more-information a, #more-information a:visited {
+    	text-decoration: none;
+    }
+  #more-information a:hover, #more-information:focus, #more-information a:active {
+    	text-decoration: underline;
+  }
+.more-information {
+  list-style-type: none;
+}
+  div {
+    border: 15px;
+  padding: 50px;
+  margin: 20px;
+  }
+.Paragraph1 {float: left}
