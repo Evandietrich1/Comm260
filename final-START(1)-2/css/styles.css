@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+	align-content: center;
+}
+html {
+    font-size: 16px;
+    line-height: 1.4rem;
+		padding: 10px;
+}
+nav {display: inline-block;
+	padding: 10px;
+}
+img {
+	width: 100%;
+    max-width: 100%;
+		padding: 30px;
+}
+.kids {float: left;padding: 1px; width: 66%}
+
+.welcomewagon { float: right;width: 33%}
+.henryboy {float: left;}
+
+.henryphoto {width: 33%; display: inline-block;}
+
+.charlie {
+	padding: 10px;
+	width: 33%;
+	display: inline-block;}
+	.redleader { align-content: center;}
+
+footer {
+    margin: 4rem 0rem;
+    padding: 2rem 0rem;
+    border-top: 1px solid #ccc;
+    font-size: .8rem;
+}
